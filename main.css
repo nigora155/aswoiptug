@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container{
+    max-width: 100%;
+    width: 85%;
+    margin: 0 auto;
+}
+.header-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-list{
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+
+}
+h1{
+    padding-top: 100px;
+}
+.ppp{
+    width: 250px;
+   
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
+.rasm{
+    display: flex;
+    justify-content: space-between;
+}
+.ikinchi{
+    text-align: center;
+}
+.pppp{
+    width: 1200px;
+    text-align: center;
+}
+.bola{
+ background-color: grey;
+ height: 35px;
+width: 250px;  
+   
+}
+.bolani_otsi{
+   
+    height: 35px;
+width: 250px;
+color: white;
+   
+}
+h5{
+    text-align: center;
+}
+
